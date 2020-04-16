@@ -2,7 +2,7 @@
 <html lang="en-ca">
 <head>
   <meta charset="utf-8">
-  <title>Accessibility fixer upper</title>
+  <title>Saas</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link href="css/modules.css" rel="stylesheet">
   <link href="css/grid.css" rel="stylesheet">
@@ -11,9 +11,58 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 </head>
 <body>
+  <ul class="skip-links" id="skip-links" tabindex="0">
+    <li><a href="#main">Jump to main content</a></li>
+    <li><a href="#nav">Jump to navigation</a></li>
+  </ul>
+  <main role="main" id="main" tabindex="0">
+    <header role="banner">
+      <div class="masthead grid grid-middle">
+        <h1 class="logo push-0 unit [ xs-1 s-1 m-1-2 l-1-2 ] pad-t-1-2 pad-b-1-2">
+          <i class="icon i-64"><img src="images/Group 326.png" alt="icon of the bee survey" aria-details="#survey"></i>
+          <span class="logo-text icon-label text-left tera unit [ xs-0 s-0 m-1-2 l-1-2 ] pad-t-1-2" id="survey">BeeSurvey</span>
+        </h1>
+        <nav class="nav unit [ xs-1 s-1 m-1-2 l-1-2 ] pad-t-1-2 pad-b-1-2" role="navigation" id="nav" tabindex="0">
+          <ul class=" wrapper list-group-inline mega push-0">
+            <li><a class="gutter-1-4 kilo" href="#"><span>Tours</span></a></li>
+            <li><a class="btn btn-banner bold kilo" href="#">Sign Up</a></li>
+          </ul>
+        </nav>
+      </div>
+
+      <section>
+        <div>
+          <div class=" wrapper banner embed embed-golden pad-t pad-b-2">
+            <img class="embed-item" src="images/close-up-of-hand-holding-pencil-over-white-background-316466.jpg" alt="background texture" aria-details="#texture">
+            <div class="banner-content pin-c w-1 max-length gutter text-center" id="texture">
+              <h2 class="pad-t-2 tera push-1-2">Customizable and pre-built surveys with trusted data security</h2>
+              <p class="kilo push-1-2">Create your own survey now, with your own personalized feedback, input, ratings and more. Areas of improvement and success to aid companies with achieving their customer service goals. </p>
+              <a class="btn btn-banner bold text-upper micro push-2" href="#">get started</a>
+            </div>
+          </div>
+
+          <div>
+            <div class=" banner-content wrapper gutter-1-2 pad-t-1-8 banner-content">
+              <h2 class=" tera push-0 color-brand-dark peta not-italic text-center">Relying on the consumers to evolve and better your ways</h2>
+              <div class="grid">
+                <ul class="list-group">
+                  <li>
+                    <i class="icon i-48 unit [ xs-1 s-1 m-1-4 l-1-4 ] center-content">
+                      <img src="images/Group 210.png" alt="">
+                    </i>
+                    <span class="icon-label unit [ xs-1 s-1 m-1-2 l-1-2 ] bold">Design & Build Your Form</span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+
+  </main>
 
 </body>
-<footer>
-
-</footer>
+<footer role="contentinfo">
+    <div class="footer micro text-center island-1-2">
+      <p class="push-0">© BeeSurvey</p>
+    </div>
+  </footer>
 </html>

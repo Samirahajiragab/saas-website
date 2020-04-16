@@ -3,18 +3,12 @@ html {
   font-family: 'Inter', sans-serif;
 }
 .masthead {
-  background-color: #522806;
-  border-bottom: .3rem solid #bea59b;
+  background-color: #0578A8;
   color: #fff;
 }
 
 .logo {
   text-align: center;
-}
-
-.logo-text {
-  display: inline-block;
-  width: 9em;
 }
 
 .nav {
@@ -26,16 +20,34 @@ html {
   text-decoration: none;
 }
 
-.nav a span {
-  border-bottom: .3rem solid #bea59b;
-}
 
 .nav a:hover span,
 .nav a:focus span {
-  border-bottom-color: #fff;
+  background-color: #fff;
+  color: #0578A8;
+  padding: .5rem;
 }
 
 .banner {
   min-height: 16em;
+  color:#0578A8;
+}
+
+.btn-banner {
+  background-color:#E8BE3B;
+  border-color: #0578A8;
+  border-radius: 8px;
   color: #fff;
+}
+
+.btn-banner:hover,
+.btn-banner:focus {
+  background-color: #fff;
+  border-color: #0578A8;
+  color: #0578A8;
+}
+
+.banner-content {
+  max-width: 28em;
+  color: #0578A8;
 }
