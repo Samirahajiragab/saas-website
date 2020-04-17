@@ -48,6 +48,89 @@ html {
 }
 
 .banner-content {
-  max-width: 28em;
+  max-width: 35em;
   color: #0578A8;
+}
+
+.review-content {
+  background-color: #000;
+}
+
+.feature-content {
+  max-width: 20em;
+  color: #0578A8;
+}
+
+.feature-ifo {
+  max-width: 2em;
+  color: #0578A8;
+}
+
+.review {
+  color: #E8BE3B;
+  background-color: #000;
+}
+
+.border-info  {
+  background-color:#0578A8;
+  border-color: #E8BE3B;
+  border-radius: 8px;
+  color: #fff;
+}
+
+.tour-content {
+  max-width: 35em;
+}
+
+.tech-info {
+  max-width: 28em;
+}
+
+.services{
+  border-top: .1rem solid #0578A8;
+  border-bottom: .1rem solid #0578A8;
+}
+
+footer {
+  border-bottom: .1rem solid #0578A8;
+}
+
+
+h1 {
+  border-bottom: 1px solid #000;
+}
+
+.container {
+  padding: 2.6rem 1.3rem;
+  background-color: #fff;
+}
+
+.btn {
+  padding: .15rem .5rem;
+}
+
+.btn-light {
+  background-color:#E8BE3B;
+  border-color: #0578A8;
+  border-radius: 8px;
+  color: #fff;
+}
+
+.btn-light:hover,
+.btn-light:focus {
+  background-color: #fff;
+  border-color: #0578A8;
+  color: #0578A8;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .name, .age, .email, .fitness {
+    width: 50%;
+  }
+
+  .age {
+    padding-top: 1.125rem;
+  }
+
 }

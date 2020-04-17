@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="205" viewBox="0 0 350 205">
+  <g id="Group_212" data-name="Group 212" transform="translate(-0.234 0.107)" opacity="0.781">
+    <g id="Rectangle_30" data-name="Rectangle 30" transform="translate(0.234 -0.107)" stroke="#707070" stroke-width="1">
+      <rect width="335" height="191" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="334" height="190" rx="7.5" fill="none"/>
+    </g>
+    <g id="Rectangle_31" data-name="Rectangle 31" transform="translate(14.234 13.893)" fill="#fffcfc" stroke="#707070" stroke-width="1">
+      <rect width="309" height="177" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="308" height="176" rx="7.5" fill="none"/>
+    </g>
+    <g id="Rectangle_29" data-name="Rectangle 29" transform="translate(13.234 190.893)" stroke="#707070" stroke-width="1">
+      <rect width="337" height="14" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="336" height="13" rx="4.5" fill="none"/>
+    </g>
+    <line id="Line_9" data-name="Line 9" x2="118.649" transform="translate(48.731 144.015)" fill="none" stroke="#000" stroke-width="3"/>
+    <g id="Rectangle_32" data-name="Rectangle 32" transform="translate(47.234 27.893)" fill="#fcce2c" stroke="#707070" stroke-width="1">
+      <rect width="229" height="66" stroke="none"/>
+      <rect x="0.5" y="0.5" width="228" height="65" fill="none"/>
+    </g>
+    <line id="Line_10" data-name="Line 10" x2="118.649" transform="translate(48.731 118.59)" fill="none" stroke="#000" stroke-width="3"/>
+    <line id="Line_13" data-name="Line 13" x2="118.649" transform="translate(48.731 169.44)" fill="none" stroke="#000" stroke-width="3"/>
+    <g id="Rectangle_33" data-name="Rectangle 33" transform="translate(172.234 105.893)" fill="#0578a8" stroke="#000" stroke-width="1">
+      <rect width="49" height="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="48" height="32" fill="none"/>
+    </g>
+    <g id="Rectangle_36" data-name="Rectangle 36" transform="translate(172.234 143.893)" fill="#0578a8" stroke="#000" stroke-width="1">
+      <rect width="49" height="38" stroke="none"/>
+      <rect x="0.5" y="0.5" width="48" height="37" fill="none"/>
+    </g>
+    <g id="Rectangle_35" data-name="Rectangle 35" transform="translate(228.234 105.893)" fill="#0578a8" stroke="#000" stroke-width="1">
+      <rect width="48" height="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="47" height="32" fill="none"/>
+    </g>
+    <g id="Rectangle_37" data-name="Rectangle 37" transform="translate(228.234 143.893)" fill="#0578a8" stroke="#000" stroke-width="1">
+      <rect width="48" height="38" stroke="none"/>
+      <rect x="0.5" y="0.5" width="47" height="37" fill="none"/>
+    </g>
+    <path id="Path_13" data-name="Path 13" d="M118.23,595.766l-10.106,13.813,36.86-13.813" transform="translate(-17.355 -453.112) rotate(-9)" fill="none" stroke="#000" stroke-width="3"/>
+    <g id="Group_117" data-name="Group 117" transform="translate(257.161 132.717) rotate(-42)">
+      <line id="Line_18" data-name="Line 18" y2="19.12" transform="translate(11.95 21.51)" fill="none" stroke="#000" stroke-width="3"/>
+      <g id="Polygon_3" data-name="Polygon 3" transform="translate(0 0)" fill="#fad759">
+        <path d="M 23.09148025512695 23.4004955291748 L 0.8090109825134277 23.4004955291748 L 11.95024585723877 1.118034482002258 L 23.09148025512695 23.4004955291748 Z" stroke="none"/>
+        <path d="M 11.95024585723877 2.236064910888672 L 1.618030548095703 22.90048408508301 L 22.28246116638184 22.90048408508301 L 11.95024585723877 2.236064910888672 M 11.95024585723877 -5.7220458984375e-06 L 23.9004955291748 23.90048408508301 L -3.814697265625e-06 23.90048408508301 L 11.95024585723877 -5.7220458984375e-06 Z" stroke="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

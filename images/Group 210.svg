@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210.84" height="198" viewBox="0 0 210.84 198">
+  <g id="Group_210" data-name="Group 210" transform="translate(0.503 0.244)">
+    <g id="Group_103" data-name="Group 103" transform="translate(15.197)">
+      <g id="Rectangle_38" data-name="Rectangle 38" transform="translate(0.445 -0.244)" fill="#0578a8" stroke="#000" stroke-width="2">
+        <rect width="172" height="198" stroke="none"/>
+        <rect x="1" y="1" width="170" height="196" fill="none"/>
+      </g>
+      <g id="Rectangle_39" data-name="Rectangle 39" transform="translate(30.445 20.756)" fill="#fcce2c" stroke="#000" stroke-width="2">
+        <rect width="106" height="15" stroke="none"/>
+        <rect x="1" y="1" width="104" height="13" fill="none"/>
+      </g>
+      <line id="Line_19" data-name="Line 19" x2="61.09" transform="translate(31.856 62.479)" fill="none" stroke="#000" stroke-width="2"/>
+      <line id="Line_20" data-name="Line 20" x2="61.09" transform="translate(31.856 93.024)" fill="none" stroke="#000" stroke-width="2"/>
+      <line id="Line_21" data-name="Line 21" x2="61.09" transform="translate(31.856 126.346)" fill="none" stroke="#000" stroke-width="2"/>
+      <line id="Line_22" data-name="Line 22" x2="61.09" transform="translate(31.856 156.891)" fill="none" stroke="#000" stroke-width="2"/>
+      <g id="Rectangle_40" data-name="Rectangle 40" transform="translate(108.445 42.756)" fill="#fcce2c" stroke="#000" stroke-width="2">
+        <rect width="28" height="30" stroke="none"/>
+        <rect x="1" y="1" width="26" height="28" fill="none"/>
+      </g>
+      <g id="Rectangle_41" data-name="Rectangle 41" transform="translate(120.445 77.756)" fill="#fcce2c" stroke="#000" stroke-width="2">
+        <rect width="28" height="26" stroke="none"/>
+        <rect x="1" y="1" width="26" height="24" fill="none"/>
+      </g>
+      <g id="Rectangle_42" data-name="Rectangle 42" transform="translate(108.445 112.756)" fill="#fcce2c" stroke="#000" stroke-width="2">
+        <rect width="28" height="26" stroke="none"/>
+        <rect x="1" y="1" width="26" height="24" fill="none"/>
+      </g>
+      <g id="Rectangle_43" data-name="Rectangle 43" transform="translate(108.445 141.756)" fill="#fcce2c" stroke="#000" stroke-width="2">
+        <rect width="28" height="30" stroke="none"/>
+        <rect x="1" y="1" width="26" height="28" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_102" data-name="Group 102" transform="translate(0 2.35)">
+      <path id="Path_18" data-name="Path 18" d="M607.2,537.846s16.6,37.888,32.625,35.689,30.99,2.813,28.7,21.44C656.186,610.8,654.248,612.7,654.248,612.7s-27.073,10.578-41.443-17.727S607.2,537.846,607.2,537.846Z" transform="translate(-604.555 -537.846)" fill="#fcce2c" stroke="#000" stroke-width="1"/>
+      <g id="Path_19" data-name="Path 19" transform="translate(67.447 59.05) rotate(38)">
+        <path d="M 0.5000079274177551 21.01602554321289 L 0.5000079274177551 0.5231490731239319 L 180.8145294189453 8.689350128173828 L 180.4990081787109 18.69777679443359 L 0.5000079274177551 21.01602554321289 Z" stroke="none"/>
+        <path d="M 0.9999847412109375 1.046304702758789 L 0.9999847412109375 20.50954055786133 L 180.0143280029297 18.20395278930664 L 180.2992401123047 9.166533470153809 L 0.9999847412109375 1.046304702758789 M -1.52587890625e-05 -7.62939453125e-06 L 181.3298187255859 8.21218204498291 L 180.9836730957031 19.19156265258789 L -1.52587890625e-05 21.52251434326172 L -1.52587890625e-05 -7.62939453125e-06 Z" stroke="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

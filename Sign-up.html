@@ -1,0 +1,42 @@
+<html lang="en-ca">
+<head>
+  <meta charset="utf-8">
+  <title>Features-page</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link href="css/modules.css" rel="stylesheet">
+  <link href="css/grid.css" rel="stylesheet">
+  <link href="css/type.css" rel="stylesheet">
+  <link href="css/main.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header role="banner">
+    <div class="masthead grid grid-middle">
+      <h1 class="logo push-0 unit [ xs-1 s-1 m-1 l-1 ] pad-t-1-4 pad-b-1-8">
+        <div class="icon i-64 content-center"><img src="images/Group 384.svg" alt="icon of the bee survey" aria-details="#survey"</div>
+    </div>
+  </header>
+
+  <form class="push-0 container" method="POST" action="https://formspree.io/bradlet@algonquincollege.com">
+    <fieldset class="push-3-4">
+      <div class=" grid content-stretch">
+        <div class="name unit xs-1 s-1 m-1 l-1 push pad-t-3-4">
+          <label for="name">Name</label>
+          <input id="name" required>
+        </div>
+        <div class=" age unit xs-1 s-1 m-1 l-1 push">
+          <label for="age">Age</label>
+          <input id="age" type="number" name="number">
+        </div>
+        <div class=" email unit xs-1 s-1 m-1 l-1 push">
+          <label for="email">Email</label>
+          <input id="email" type="email" name="text">
+        </div>
+    </fieldset>
+      <div class="center-text pad-t">
+        <button class="btn btn-light mega text-upper" type="submit">submit</button>
+        <input type="hidden" name="_subject" value="Request to join our survey platform">
+      </div>
+    </fieldset>
+  </form>
+</body>
