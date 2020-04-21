@@ -96,22 +96,13 @@ html {
   color: #045FA2;
 }
 
-.services{
+.services,.border-top{
   border-top: .1rem solid #045FA2;
   border-bottom: .1rem solid #045FA2;
 }
 
-.info {
+.info,footer,h1 {
   border-bottom: .1rem solid #045FA2;
-}
-
-footer {
-  border-bottom: .1rem solid #045FA2;
-}
-
-
-h1 {
-  border-bottom: 1px solid #000;
 }
 
 .container {
@@ -142,7 +133,11 @@ fieldset {
 }
 
 form {
-  float:right;
+  background-color: #A7CAE5;
+}
+
+.bee-icon {
+  min-height: 17em;
 }
 
 @media only screen and (min-width: 38em) {

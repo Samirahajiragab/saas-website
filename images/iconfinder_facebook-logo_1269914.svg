@@ -1,5 +1,7 @@
-<svg id="iconfinder_facebook-logo_1269914" xmlns="http://www.w3.org/2000/svg" width="81.293" height="81.293" viewBox="0 0 81.293 81.293">
-  <g id="Group_123" data-name="Group 123" transform="translate(0 0)">
-    <path id="Facebook__x28_alt_x29_" d="M81.293,13.549A14.019,14.019,0,0,0,67.744,0h-54.2A14.019,14.019,0,0,0,0,13.549v54.2A14.019,14.019,0,0,0,13.549,81.293h27.1V50.582H30.711V37.033h9.936V31.795c0-9.123,6.865-17.342,15.265-17.342H66.841V28H55.911c-1.174,0-2.619,1.445-2.619,3.613v5.42H66.841V50.582H53.292V81.293H67.744A14.019,14.019,0,0,0,81.293,67.744Z" fill="#e6cb53"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="99" height="99" viewBox="0 0 99 99">
+  <g id="iconfinder_facebook-logo_1269914" transform="translate(-8 -10)">
+    <g id="Group_123" data-name="Group 123" transform="translate(8 10)">
+      <path id="Facebook__x28_alt_x29_" d="M99,16.5C99,7.81,91.19,0,82.5,0h-66C7.81,0,0,7.81,0,16.5v66C0,91.19,7.81,99,16.5,99h33V61.6H37.4V45.1H49.5V38.72c0-11.11,8.36-21.12,18.59-21.12H81.4V34.1H68.09c-1.43,0-3.19,1.76-3.19,4.4v6.6H81.4V61.6H64.9V99H82.5C91.19,99,99,91.19,99,82.5Z" fill="#e6cb53"/>
+    </g>
   </g>
 </svg>
