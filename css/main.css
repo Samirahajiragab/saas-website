@@ -7,7 +7,7 @@ html {
   color: #fff;
 }
 
-.logo {
+.logo, .logo2 {
   text-align: center;
 }
 
@@ -29,14 +29,14 @@ html {
 }
 
 .banner {
-  min-height: 16em;
+  min-height: 17em;
   color: #045FA2;
 }
 
 .btn-banner {
   background-color:#E8BE3B;
   border-color: #045FA2;
-  border-radius: 8px;
+  border-radius: 13px;
   color: #fff;
 }
 
@@ -57,10 +57,19 @@ html {
 }
 
 .feature-content {
-  max-width: 20em;
+  max-width: 25em;
   color: #045FA2;
 }
 
+.copyright, h2, .log, input {
+  color: #045FA2;
+}
+
+.plans,.ultimate, .professional,.starter, .border {
+  color: #E8BE3B;
+  background-color: #000;
+  border: .1rem solid #E8BE3B;
+}
 .feature-ifo {
   max-width: 2em;
   color: #045FA2;
@@ -74,7 +83,7 @@ html {
 .border-info  {
   background-color: #045FA2;
   border-color: #E8BE3B;
-  border-radius: 8px;
+  border-radius: 4px;
   color: #fff;
 }
 
@@ -84,10 +93,15 @@ html {
 
 .tech-info {
   max-width: 28em;
+  color: #045FA2;
 }
 
 .services{
   border-top: .1rem solid #045FA2;
+  border-bottom: .1rem solid #045FA2;
+}
+
+.info {
   border-bottom: .1rem solid #045FA2;
 }
 
@@ -112,7 +126,7 @@ h1 {
 .btn-light {
   background-color:#E8BE3B;
   border-color: #045FA2;
-  border-radius: 8px;
+  border-radius: 4px;
   color: #fff;
 }
 
@@ -121,6 +135,22 @@ h1 {
   background-color: #fff;
   border-color: #045FA2;
   color:#045FA2;
+}
+
+fieldset {
+  border-top: none;
+}
+
+form {
+  float:right;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .logo {
+    text-align: left;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -133,4 +163,25 @@ h1 {
     padding-top: 1.125rem;
   }
 
+}
+
+
+
+
+input {
+  border-color: ##045FA2;
+}
+
+textarea {
+  border-color: ##045FA2;
+}
+
+select {
+  border-color: #045FA2;
+}
+
+.btn {
+  background-color: #045FA2;
+  border-color: #045FA2;
+  color: #fff;
 }
