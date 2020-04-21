@@ -12,7 +12,7 @@
 </head>
 <body>
   <header role="banner">
-    <div class="masthead grid grid-middle">
+    <div class="masthead grid grid-middle  unit-content-distribute">
       <h1 class=" logo2 push-0 unit [ xs-1 s-1 m-1-2 l-1-2 ] pad-t-1-4 pad-b-1-8 gutter">
         <span class="icon i-64"><img src="images/logo.svg" alt="icon of the bee survey" aria-details="#survey"></span>
         <span class="logo-text icon-label text-left tera unit [ xs-0 s-0 m-1-2 l-1-2 ] pad-t-1-2" id="survey">BeeSurvey</span>
@@ -28,49 +28,48 @@
     <div class="grid list-group">
       <ul class="unit [ xs-0 s-0 m-1-2 l-1-2 ]">
         <li class="island-1-2">
-          <div class="banner embed embed-16by9  pad-b-2">
-            <img class="bee-icon embed-item pad-t-2" src="images/bee-icon.jpg" alt="background texture">
+          <div class=" pad-b-2">
+            <img class="bee-icon img-flex push-0" src="images/bee-icon @2x.jpg" alt="background texture">
           </div>
         </li>
       </ul>
 
-      <form class=" right push-0 gutter-1-2 unit [ xs-1 s-1 m-1-2 l-1-2 ]" action="..." method="post">
+      <form class=" right push-1-4 unit [ xs-1 s-1 m-1-2 l-1-2 ] pad-t-1-2" action="..." method="post">
 
-        <fieldset class="push-0 pad-t-1-2 pad-b">
+        <fieldset class=" form island pad-t pad-b gutter-1-2">
 
           <div class="grid grid-middle">
 
-            <div class="name unit xs-1 m-1-2 l-1-2 xl-1-2  push">
-              <label class="push-1-8" for="name"></label>
+            <div class="unit xs-1 m-1-1 l-1 xl-1 pad-t-1-8 push">
+              <label class="push-1-8 pad-t" for="name"></label>
               <input id="name" class="push-1-8" placeholder="username" required>
             </div>
 
 
-            <div class="password unit xs-1 m-1 l-1 xl-1 push">
+            <div class="unit xs-1 m-1 l-1 xl-1 push">
               <label class="push-1-8" for="password"></label>
               <input id="password" class="push-1-8" placeholder="password" required>
             </div>
 
-            <div class="email unit xs-1 s-1 m-1 l-1 xl-1  push">
+            <div class="unit xs-1 s-1 m-1 l-1 xl-1  push">
               <label class="push-1-8" for="email"></label>
               <input type="email" id="email" placeholder="me123@gmail.com" required>
             </div>
 
-            <div class="email unit xs-1 s-1 m-1-2 l-1-2  xl-1  push">
+            <div class="unit xs-1 s-1 m-1-2 l-1-2  xl-2  push">
               <label class="push-1-8" for="firstname"></label>
               <input type="firstname" id="firstname" placeholder="first name" required>
             </div>
 
-            <div class="email unit xs-1 s-1 m-1-2 l-1-2 push gutter-1-8">
+            <div class="unit xs-1 s-1 m-1-2 l-1-2 push gutter-1-8">
               <label class="push-1-8" for="last-name"></label>
               <input type="last-name" id="last-name" placeholder="last name" >
             </div>
           </div>
-        </fieldset>
+          <div class=" push-1-2 grid grid-middle">
+            <button class="btn btn-blue giga gutter-2 unit xs-1 s-1 m-1- l-1 " type="submit">submit</button>
+          </div>
 
-        <div class="push-2 unit-content-center">
-          <button class="btn btn-blue giga gutter-2" type="submit">submit</button>
-        </div>
 
           <ul class=" grid list-group">
             <span class="mirco bold unit [ xs-1-4 s-1-4 m-1-4  l-1-4 ] push-0">Or Sign up with </span>
@@ -96,6 +95,8 @@
               </i>
             </li>
           </ul>
+
+        </fieldset>
 
       </form>
     </div>
