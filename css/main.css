@@ -3,7 +3,7 @@ html {
   font-family: 'Inter', sans-serif;
 }
 .masthead {
-  background-color: #0578A8;
+  background-color: #045FA2;
   color: #fff;
 }
 
@@ -24,18 +24,18 @@ html {
 .nav a:hover span,
 .nav a:focus span {
   background-color: #fff;
-  color: #0578A8;
+  color: #045FA2;
   padding: .5rem;
 }
 
 .banner {
   min-height: 16em;
-  color:#0578A8;
+  color: #045FA2;
 }
 
 .btn-banner {
   background-color:#E8BE3B;
-  border-color: #0578A8;
+  border-color: #045FA2;
   border-radius: 8px;
   color: #fff;
 }
@@ -43,13 +43,13 @@ html {
 .btn-banner:hover,
 .btn-banner:focus {
   background-color: #fff;
-  border-color: #0578A8;
-  color: #0578A8;
+  border-color: #045FA2;
+  color: #045FA2;
 }
 
 .banner-content {
   max-width: 35em;
-  color: #0578A8;
+  color: #045FA2;
 }
 
 .review-content {
@@ -58,12 +58,12 @@ html {
 
 .feature-content {
   max-width: 20em;
-  color: #0578A8;
+  color: #045FA2;
 }
 
 .feature-ifo {
   max-width: 2em;
-  color: #0578A8;
+  color: #045FA2;
 }
 
 .review {
@@ -72,7 +72,7 @@ html {
 }
 
 .border-info  {
-  background-color:#0578A8;
+  background-color: #045FA2;
   border-color: #E8BE3B;
   border-radius: 8px;
   color: #fff;
@@ -87,12 +87,12 @@ html {
 }
 
 .services{
-  border-top: .1rem solid #0578A8;
-  border-bottom: .1rem solid #0578A8;
+  border-top: .1rem solid #045FA2;
+  border-bottom: .1rem solid #045FA2;
 }
 
 footer {
-  border-bottom: .1rem solid #0578A8;
+  border-bottom: .1rem solid #045FA2;
 }
 
 
@@ -111,7 +111,7 @@ h1 {
 
 .btn-light {
   background-color:#E8BE3B;
-  border-color: #0578A8;
+  border-color: #045FA2;
   border-radius: 8px;
   color: #fff;
 }
@@ -119,8 +119,8 @@ h1 {
 .btn-light:hover,
 .btn-light:focus {
   background-color: #fff;
-  border-color: #0578A8;
-  color: #0578A8;
+  border-color: #045FA2;
+  color:#045FA2;
 }
 
 @media only screen and (min-width: 60em) {
