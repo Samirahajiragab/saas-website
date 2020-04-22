@@ -11,6 +11,12 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 </head>
 <body>
+
+  <ul class="skip-links" id="skip-links" tabindex="0">
+    <li><a href="#main">Jump to main content</a></li>
+    <li><a href="#nav">Jump to navigation</a></li>
+  </ul>
+
   <header role="banner">
     <div class="masthead grid grid-middle">
       <h1 class=" logo push-0 unit [ xs-1 s-1 m-1-2 l-1-2 ] pad-t-1-4 pad-b-1-8 gutter">
@@ -117,8 +123,8 @@
     <section>
       <div class="plans pad-t pad-b">
         <div class="wrapper gutter-1-2">
-          <h2 class="plan push-0 text-center">Compare plans</h2>
-          <table class="plans ">
+          <table class="plans">
+            <caption><h2 class="plan push-0 not-italic text-center">Compare plans</h2></caption>
             <thead>
               <tr>
                 <th class="border" scope="col">&nbsp;</th>
