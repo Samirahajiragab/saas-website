@@ -34,8 +34,8 @@ html {
 }
 
 .btn-banner {
-  background-color: #e8be3b;
-  border-color: #045fa2;
+  background-color: #045fa2;
+  border-color: #e8be3b;
   border-radius: 13px;
   color: #fff;
 }
@@ -48,7 +48,12 @@ html {
 }
 
 .banner-content {
-  max-width: 35em;
+  max-width: 28em;
+  color: #045fa2;
+}
+
+.banner-head {
+  max-width: 18em;
   color: #045fa2;
 }
 
@@ -57,7 +62,7 @@ html {
 }
 
 .feature-content {
-  max-width: 25em;
+  max-width: 15em;
   color: #045fa2;
 }
 
