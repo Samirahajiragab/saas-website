@@ -162,7 +162,6 @@ select {
   color: #fff;
 }
 
-
 @media only screen and (min-width: 38em) {
 
   .bee-icon {
@@ -175,7 +174,6 @@ select {
 
 }
 
-
 @media only screen and (min-width: 60em) {
 
   .big-screen {
@@ -185,7 +183,6 @@ select {
   .bee-icon {
     max-height: 25.8em;
   }
-
 
   .name, .age, .email, .fitness {
     width: 50%;
