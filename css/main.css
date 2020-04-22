@@ -16,7 +16,7 @@ html {
   text-align: center;
 }
 
-.nav a {
+.nav a, .title {
   color: #fff;
   text-decoration: none;
 }
