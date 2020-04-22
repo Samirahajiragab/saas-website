@@ -164,6 +164,7 @@ select {
 
 
 @media only screen and (min-width: 38em) {
+
   .bee-icon {
     max-height: 26em;
   }
@@ -182,7 +183,7 @@ select {
   }
 
   .bee-icon {
-    max-height: 25.em;
+    max-height: 25.8em;
   }
 
 
