@@ -162,15 +162,11 @@ select {
   color: #fff;
 }
 
-@media only screen and (min-width: 37.5em) {
-
-  .bee-icon {
-    max-height: 24em;
-  }
-
-}
 
 @media only screen and (min-width: 38em) {
+  .bee-icon {
+    max-height: 26em;
+  }
 
   .logo {
     text-align: left;
@@ -178,15 +174,17 @@ select {
 
 }
 
-@media only screen and (min-width: 59em) {
-
-  .bee-icon {
-    max-height: 25.5em;
-  }
-
-}
 
 @media only screen and (min-width: 60em) {
+
+  .big-screen {
+    max-width: 55em;
+  }
+
+  .bee-icon {
+    max-height: 25.em;
+  }
+
 
   .name, .age, .email, .fitness {
     width: 50%;
