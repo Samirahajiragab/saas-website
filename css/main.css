@@ -170,8 +170,8 @@ select {
 
 @media only screen and (min-width: 38em) {
 
-  .bee-icon {
-    max-height: 26.9em;
+  .bee-icon, form  {
+    max-height: 27em;
   }
 
   .logo {
@@ -197,6 +197,14 @@ select {
 
   .age {
     padding-top: 1.125rem;
+  }
+
+}
+
+@media only screen and (min-width: 90em) {
+
+  .bee-icon, form  {
+    max-height: 26.4em;
   }
 
 }
