@@ -61,7 +61,7 @@ html {
   color: #045fa2;
 }
 
-.copyright, h2, .log, input {
+.copyright, h2, h3, .log, input {
   color: #045fa2;
 }
 
@@ -76,7 +76,6 @@ html {
 }
 
 .feature-ifo {
-  max-width: 2em;
   color: #045fa2;
 }
 
