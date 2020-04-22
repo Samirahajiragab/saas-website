@@ -170,7 +170,7 @@ select {
 
 @media only screen and (min-width: 38em) {
 
-  .bee-icon, form  {
+  .bee-icon, form {
     max-height: 27em;
   }
 
@@ -203,7 +203,7 @@ select {
 
 @media only screen and (min-width: 90em) {
 
-  .bee-icon, form  {
+  .bee-icon, form {
     max-height: 26.4em;
   }
 
