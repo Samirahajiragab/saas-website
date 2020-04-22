@@ -151,6 +151,7 @@ fieldset {
 
 input {
   border-color: #045fa2;
+  height: 30px;
 }
 
 textarea {
@@ -170,7 +171,7 @@ select {
 @media only screen and (min-width: 38em) {
 
   .bee-icon {
-    max-height: 28.5em;
+    max-height: 26.9em;
   }
 
   .logo {
@@ -181,12 +182,13 @@ select {
 
 @media only screen and (min-width: 60em) {
 
-  .big-screen {
-    max-width: 55em;
+  input {
+    border-color: #045fa2;
+    height: 36px;
   }
 
-  .bee-icon {
-    max-height: 28.5em;
+  .big-screen {
+    max-width: 55em;
   }
 
   .name, .age, .email, .fitness {
