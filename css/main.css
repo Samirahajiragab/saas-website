@@ -65,6 +65,10 @@ html {
   color: #045fa2;
 }
 
+.plan, .review-title  {
+  color: #e8be3b;
+}
+
 .plans, .ultimate, .professional, .starter, .border {
   color: #e8be3b;
   background-color: #000;
