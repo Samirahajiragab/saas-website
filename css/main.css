@@ -40,13 +40,6 @@ html {
   color: #fff;
 }
 
-.icon:hover,
-.icon:focus {
-  background-color: #fff;
-  border-color: #045fa2;
-  color: #045fa2;
-}
-
 .btn-banner:hover,
 .btn-banner:focus {
   background-color: #fff;
@@ -177,7 +170,7 @@ select {
 @media only screen and (min-width: 38em) {
 
   .bee-icon {
-    max-height: 26em;
+    max-height: 28.5em;
   }
 
   .logo {
@@ -193,7 +186,7 @@ select {
   }
 
   .bee-icon {
-    max-height: 25.8em;
+    max-height: 28.5em;
   }
 
   .name, .age, .email, .fitness {
