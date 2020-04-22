@@ -23,7 +23,7 @@ html {
 
 .nav a:hover span,
 .nav a:focus span {
-  background-color: #fff;
+  background-color: #000;
   color: #045fa2;
   padding: .5rem;
 }
