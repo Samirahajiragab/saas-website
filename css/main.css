@@ -65,7 +65,7 @@ html {
   color: #045fa2;
 }
 
-.plan, .review-title  {
+.plan, .review-title {
   color: #e8be3b;
 }
 
@@ -169,6 +169,7 @@ select {
   }
 
 }
+
 @media only screen and (min-width: 38em) {
 
   .logo {
@@ -182,6 +183,7 @@ select {
   .bee-icon {
     max-height: 25.5em;
   }
+
 }
 
 @media only screen and (min-width: 60em) {
